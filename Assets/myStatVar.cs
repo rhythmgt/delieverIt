@@ -6,6 +6,8 @@ public class myStatVar : MonoBehaviour {
 
 
     public static float upwardVel = 0;
+    public static float forwardVel = 8;
+    public static int score = 0;
 	// Use this for initialization
 	void Start () {
 		

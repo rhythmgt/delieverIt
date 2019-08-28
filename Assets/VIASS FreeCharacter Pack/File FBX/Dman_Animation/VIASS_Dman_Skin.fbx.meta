@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: d49af8694c5ff854eae4c1f1f307bdd8
+timeCreated: 1552025702
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Character
+    100002: DeliveryMan_mesh
+    100004: Dman_head_TopSHJnt
+    100006: Dman_l_Arm_ClavicleSHJnt
+    100008: Dman_l_Arm_ElbowSHJnt
+    100010: Dman_l_Arm_ShoulderSHJnt
+    100012: Dman_l_Arm_WristSHJnt
+    100014: Dman_l_Fingers_01_01SHJnt
+    100016: Dman_l_Fingers_02_01SHJnt
+    100018: Dman_l_Leg_AnkleSHJnt
+    100020: Dman_l_Leg_BallSHJnt
+    100022: Dman_l_Leg_HipSHJnt
+    100024: Dman_l_Leg_KneeSHJnt
+    100026: Dman_l_Leg_ToeSHJnt
+    100028: Dman_r_Arm_ClavicleSHJnt
+    100030: Dman_r_Arm_ElbowSHJnt
+    100032: Dman_r_Arm_ShoulderSHJnt
+    100034: Dman_r_Arm_WristSHJnt
+    100036: Dman_r_Fingers_01_01SHJnt
+    100038: Dman_r_Fingers_02_01SHJnt
+    100040: Dman_r_Leg_AnkleSHJnt
+    100042: Dman_r_Leg_BallSHJnt
+    100044: Dman_r_Leg_HipSHJnt
+    100046: Dman_r_Leg_KneeSHJnt
+    100048: Dman_r_Leg_ToeSHJnt
+    100050: Dman_ROOTSHJnt
+    100052: Dman_Spline_01SHJnt
+    100054: Dman_Spline_02SHJnt
+    100056: Dman_Spline_TopSHJnt
+    100058: //RootNode
+    400000: Character
+    400002: DeliveryMan_mesh
+    400004: Dman_head_TopSHJnt
+    400006: Dman_l_Arm_ClavicleSHJnt
+    400008: Dman_l_Arm_ElbowSHJnt
+    400010: Dman_l_Arm_ShoulderSHJnt
+    400012: Dman_l_Arm_WristSHJnt
+    400014: Dman_l_Fingers_01_01SHJnt
+    400016: Dman_l_Fingers_02_01SHJnt
+    400018: Dman_l_Leg_AnkleSHJnt
+    400020: Dman_l_Leg_BallSHJnt
+    400022: Dman_l_Leg_HipSHJnt
+    400024: Dman_l_Leg_KneeSHJnt
+    400026: Dman_l_Leg_ToeSHJnt
+    400028: Dman_r_Arm_ClavicleSHJnt
+    400030: Dman_r_Arm_ElbowSHJnt
+    400032: Dman_r_Arm_ShoulderSHJnt
+    400034: Dman_r_Arm_WristSHJnt
+    400036: Dman_r_Fingers_01_01SHJnt
+    400038: Dman_r_Fingers_02_01SHJnt
+    400040: Dman_r_Leg_AnkleSHJnt
+    400042: Dman_r_Leg_BallSHJnt
+    400044: Dman_r_Leg_HipSHJnt
+    400046: Dman_r_Leg_KneeSHJnt
+    400048: Dman_r_Leg_ToeSHJnt
+    400050: Dman_ROOTSHJnt
+    400052: Dman_Spline_01SHJnt
+    400054: Dman_Spline_02SHJnt
+    400056: Dman_Spline_TopSHJnt
+    400058: //RootNode
+    4300000: DeliveryMan_mesh
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: DeliveryMan_mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -166,3 +166,5 @@ E:\my android games\Run DKB\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.c
 E:\my android games\Run DKB\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 E:\my android games\Run DKB\obj\Debug\Assembly-CSharp.dll
 E:\my android games\Run DKB\obj\Debug\Assembly-CSharp.pdb
+E:\my android games\Run DKB\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+E:\my android games\Run DKB\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
